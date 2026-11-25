@@ -6,6 +6,6 @@ Lista das equipes do trabalho (atualizada em 17/11/2026, 17h40). Cada equipe tra
 | --- | --- | --- |
 | Elas e Ele | Mateus Batista (Mateuz971), Raika Maciel (raikamdias-lgtm), Raica Silva (K9s45vhk5p-hub), Victória Batalha (vivibatalha) | [Mateuz971-creator/ed2-busca-comparativa](https://github.com/Mateuz971-creator/ed2-busca-comparativa) |
 | EQUIPE STARK | Kristian Kieling, "K.K" (kristiankieling68), Nicolas Barros (barrosnicolas12373), Pedro Henrique (pedr0-0liveira), Rhuan Pessoa (engrhuan2511), Yuri Alexandrino (Yuri-A08) | [engrhuan2511/atv_ed2_181126](https://github.com/engrhuan2511/atv_ed2_181126) |
-| Os Yakuza | Mateus Rocha, Ruan Cesar (ruancesarln-cln), Luiz Fernando, Pedro Rennek, Reiner, Luiz Moçambite, Murilo, Lucas de Paula | [ruancesarln-cln/ed2-busca-comparativa](https://github.com/ruancesarln-cln/ed2-busca-comparativa) |
+| Os Yakuza | Mateus Rocha, Ruan Cesar (ruancesarln-cln), Luiz Fernando (luiz-engco), Pedro Rennek, Reiner, Luiz Moçambite, Murilo, Lucas de Paula | [ruancesarln-cln/ed2-busca-comparativa](https://github.com/ruancesarln-cln/ed2-busca-comparativa) |
 | Trio Ternura | Yanto Weyckme (YanKinWey), Rigson Yuri (Specter-1610), Saulo Rafael (Saumonkk) | [YanKinWey/ed2-busca-comparativa](https://github.com/YanKinWey/ed2-busca-comparativa) |
 | The Light | Miguel (miguelluzamorim), Sérgio (dinos320), Vinícius (viniciuszzz-lang) | [miguelluzamorim/ed2-busca-comparativa](https://github.com/miguelluzamorim/ed2-busca-comparativa) |
